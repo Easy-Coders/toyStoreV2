@@ -382,7 +382,7 @@ header .box-title {
                                                         </ul> 
                                                     </div>
                                                 </div>
-gtestddd
+new commit
                                                 <!-- product details -->
 
                                                 <div class="container">
