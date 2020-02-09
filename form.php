@@ -382,7 +382,7 @@ header .box-title {
                                                         </ul> 
                                                     </div>
                                                 </div>
-gtest
+gtestddd
                                                 <!-- product details -->
 
                                                 <div class="container">
